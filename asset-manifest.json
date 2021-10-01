@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Admin-FrontEnd/static/css/main.a617e044.chunk.css",
+    "main.js": "/Admin-FrontEnd/static/js/main.ce44fe44.chunk.js",
+    "main.js.map": "/Admin-FrontEnd/static/js/main.ce44fe44.chunk.js.map",
+    "runtime-main.js": "/Admin-FrontEnd/static/js/runtime-main.ba37d827.js",
+    "runtime-main.js.map": "/Admin-FrontEnd/static/js/runtime-main.ba37d827.js.map",
+    "static/js/2.7d004555.chunk.js": "/Admin-FrontEnd/static/js/2.7d004555.chunk.js",
+    "static/js/2.7d004555.chunk.js.map": "/Admin-FrontEnd/static/js/2.7d004555.chunk.js.map",
+    "static/js/3.033b368d.chunk.js": "/Admin-FrontEnd/static/js/3.033b368d.chunk.js",
+    "static/js/3.033b368d.chunk.js.map": "/Admin-FrontEnd/static/js/3.033b368d.chunk.js.map",
+    "index.html": "/Admin-FrontEnd/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Admin-FrontEnd/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7d004555.chunk.js.LICENSE.txt": "/Admin-FrontEnd/static/js/2.7d004555.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Admin-FrontEnd/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba37d827.js",
+    "static/js/2.7d004555.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ce44fe44.chunk.js"
+  ]
+}
