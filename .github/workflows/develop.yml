@@ -38,16 +38,8 @@ jobs:
     
     - name: Build project
       run: npm run build --if-present
-    
-    - name: Run tests
-      run: npm test -- --coverage
       
     - name: Lighthouse
       uses: foo-software/lighthouse-check-action@master
       with:
         urls: 'https://musix-fontys.github.io/Admin-FrontEnd/signin,https://musix-fontys.github.io/Admin-FrontEnd/dashboard,https://musix-fontys.github.io/Admin-FrontEnd/users'
-    
-    - name: Upload coverage to Codecov
-      uses: codecov/codecov-action@v2.1.0
-      with:
-        token: ${{ secrets.CODECOV_TOKEN }}
